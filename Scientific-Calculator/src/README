@@ -1,0 +1,22 @@
+# Advanced Scientific Calculator (Java)
+
+A modern **Scientific Calculator Desktop Application** built using **Java Swing**.  
+The calculator supports advanced mathematical operations including graph plotting, matrix calculations, equation solving, and expression parsing.
+
+## Features
+
+- Basic arithmetic operations (+, -, *, /)
+- Scientific functions (sin, cos, tan, log, sqrt)
+- Expression parser
+- Graph plotting for mathematical functions
+- Matrix calculator
+- Quadratic equation solver
+- Calculation history panel
+
+## Technologies Used
+
+- Java
+- Java Swing (GUI)
+- Java Math Library
+
+## Project Structure
